@@ -24,13 +24,6 @@ You can see a live demo of the Todo web app here.
 Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
 
-License
-This project is licensed under the MIT License.
-
-Acknowledgements
-OpenAI for providing the GPT-3.5 language model used in creating this response.
-You can customize the content according to your specific project, providing relevant information about installation, usage, deployment, and any other details that may be useful for users and contributors.
-
 
 
 
